@@ -11,5 +11,5 @@
 
 * Models used for training the data
   1. Gaussian Naive Bayes
-  2. M Naive Bayes
+  2. Multinomial Naive Bayes
   3. Random Forest 
