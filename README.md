@@ -8,6 +8,7 @@
 * Feature Extraction techniques used:
   1. Bag of Words (BoW)
   2. TF-IDF
+  3. Word2Vec (Pre-trained)
 
 * Models used for training the data
   1. Gaussian Naive Bayes
